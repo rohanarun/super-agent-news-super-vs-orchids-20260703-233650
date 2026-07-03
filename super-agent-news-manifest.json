@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[techcouver.com](https://techcouver.com/2026/06/12/vancouver-ai-startup-orchid-brings-the-world-cup-to-your-messages/)",
+    "[techcrunch.com](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)",
+    "[the-decoder.com](https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[securityaffairs.com](https://securityaffairs.com/178289/ai/guardfall-ai-agents.html)"
+  ],
+  "design_plan": "rng_seed=42; hero_lines=3; aida=pass; grid_dense=verified; label_sweep=pass; button_contrast=pass",
+  "generated_at": "2026-07-03T23:36:57.847096+00:00",
+  "headline": "Super vs Orchids \u2014 Personal AI Agents Compared",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "A fair, evidence\u2011based comparison for people evaluating Super and Orchids. Orchids explores messaging\u2011centric and experimental agent ideas, while Super is purpose\u2011built for durable computer\u2011use workflows \u2014 with a reusable computer-use cache that makes repeated work faster and cheaper over time. The page also situates both products within the wider agent landscape including Folk, Siri, ChatGPT, Gemini, and Grok."
+}
